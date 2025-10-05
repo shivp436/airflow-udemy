@@ -13,6 +13,7 @@
 > docker compose up
 
 **How a task runs**
+
 ![](./__notes/task-lifecycle.png)
 
 **Term Translations (Airflow -> ADF)**
